@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChaseDemoApp</string>
+    <string name="artist_name">Artist Name</string>
+    <string name="track_nmae">Track Nmae</string>
+</resources>
